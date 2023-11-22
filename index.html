@@ -1,10 +1,60 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-	</head>
-	<body>
-		<h1>自用静态超链接服务</h1>
-	</body>
+
+<head>
+	<meta charset="utf-8">
+</head>
+
+<body>
+	<script>
+		window.onload = function () {
+			const title = '自用静态超链接服务'
+			// 如有增删改，只需更新 context 即可
+			const list = [
+				{
+					title: '图片',
+					type: 'img',
+					context: ['docker-desktop.jpg', 'pure.png']
+				},
+				{
+					title: '音频（会自动播放，建议调低音量）',
+					type: 'audio',
+					context: ['光辉岁月.mp3', '海阔天空.mp3']
+				},
+				{
+					title: 'PDF',
+					type: 'pdf',
+					context: ['Cookie和Session区别用法.pdf']
+				},
+				{
+					title: 'JSON',
+					type: 'json',
+					context: ['echarts.json']
+				}
+			]
+
+			document.title = title
+
+			const h1 = document.createElement('h1')
+			h1.textContent = title
+			document.body.appendChild(h1)
+
+			for (let i = 0; i < list.length; i++) {
+				const h2 = document.createElement('h2')
+				h2.textContent = list[i].title
+				document.body.appendChild(h2)
+
+				for (let j = 0; j < list[i].context.length; j++) {
+					const a = document.createElement('a')
+					a.href = `./${list[i].type}/${list[i].context[j]}`
+					a.target = "_blank"
+					a.textContent = `${list[i].context[j]}`
+					document.body.appendChild(a)
+					document.body.appendChild(document.createElement("br"))
+				}
+			}
+		}
+	</script>
+</body>
+
 </html>
