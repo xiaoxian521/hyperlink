@@ -8,7 +8,7 @@
 <body>
 	<script>
 		window.onload = function () {
-			const title = '自用静态超链接服务'
+			const title = '自用静态超链接服务（无跨域限制）'
 			// 如有增删改，只需更新 context 即可
 			const list = [
 				{
@@ -17,7 +17,7 @@
 					context: ['docker-desktop.jpg', 'pure.png']
 				},
 				{
-					title: '音频（会自动播放，建议调低音量）',
+					title: '音频（点开会自动播放，建议提前调低音量）',
 					type: 'audio',
 					context: ['光辉岁月.mp3', '海阔天空.mp3']
 				},
@@ -35,9 +35,14 @@
 
 			document.title = title
 
-			const h1 = document.createElement('h1')
-			h1.textContent = title
-			document.body.appendChild(h1)
+			const ta = document.createElement('a')
+			ta.href = "https://github.com/xiaoxian521/hyperlink"
+			ta.title = "查看源码"
+			ta.target = "_blank"
+			ta.textContent = title
+			ta.style.fontSize = '2em'
+			ta.style.textDecoration = 'none'
+			document.body.appendChild(ta)
 
 			for (let i = 0; i < list.length; i++) {
 				const h2 = document.createElement('h2')
