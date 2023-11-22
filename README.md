@@ -5,6 +5,7 @@
 ## img
 
 - https://xiaoxian521.github.io/hyperlink/img/docker-desktop.jpg
+- https://xiaoxian521.github.io/hyperlink/img/echarts-wordcloud.png
 - https://xiaoxian521.github.io/hyperlink/img/pure.png
 
 ## audio
