@@ -2,55 +2,62 @@
 <html>
 
 <head>
-	<meta charset="utf-8">
+	<meta charset="utf-8" />
 </head>
 
 <body>
 	<script>
 		window.onload = function () {
-			const title = '自用静态超链接服务（无跨域限制）'
+			const title = "自用静态超链接服务（无跨域限制）"
 			// 如有增删改，只需更新 context 即可
 			const list = [
 				{
-					title: '图片',
-					type: 'img',
-					context: ['docker-desktop.jpg', 'echarts-wordcloud.png', 'pure.png']
+					title: "图片",
+					type: "img",
+					context: [
+						"docker-desktop.jpg",
+						"echarts-wordcloud.png",
+						"pure.png",
+						"pureadmin-descriptions.png",
+						"pureadmin-table.png",
+						"pureadmin-utils.png",
+					],
 				},
 				{
-					title: '音频（点开会自动播放，建议提前调低音量）',
-					type: 'audio',
-					context: ['光辉岁月.mp3', '海阔天空.mp3']
+					title: "音频（点开会自动播放，建议提前调低音量）",
+					type: "audio",
+					context: ["光辉岁月.mp3", "海阔天空.mp3"],
 				},
 				{
-					title: 'PDF',
-					type: 'pdf',
-					context: ['Cookie和Session区别用法.pdf']
+					title: "PDF",
+					type: "pdf",
+					context: ["Cookie和Session区别用法.pdf"],
 				},
 				{
-					title: 'JSON',
-					type: 'json',
-					context: ['echarts.json']
-				}
+					title: "JSON",
+					type: "json",
+					context: ["echarts.json"],
+				},
 			]
 
 			document.title = title
 
-			const ta = document.createElement('a')
+			const ta = document.createElement("a")
 			ta.href = "https://github.com/xiaoxian521/hyperlink"
 			ta.title = "查看源码"
 			ta.target = "_blank"
 			ta.textContent = title
-			ta.style.fontSize = '2em'
-			ta.style.textDecoration = 'none'
+			ta.style.fontSize = "2em"
+			ta.style.textDecoration = "none"
 			document.body.appendChild(ta)
 
 			for (let i = 0; i < list.length; i++) {
-				const h2 = document.createElement('h2')
+				const h2 = document.createElement("h2")
 				h2.textContent = list[i].title
 				document.body.appendChild(h2)
 
 				for (let j = 0; j < list[i].context.length; j++) {
-					const a = document.createElement('a')
+					const a = document.createElement("a")
 					a.href = `./${list[i].type}/${list[i].context[j]}`
 					a.target = "_blank"
 					a.textContent = `${list[i].context[j]}`
@@ -58,7 +65,7 @@
 					document.body.appendChild(document.createElement("br"))
 				}
 			}
-		}
+		};
 	</script>
 </body>
 

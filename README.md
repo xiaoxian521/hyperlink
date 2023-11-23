@@ -7,6 +7,9 @@
 - https://xiaoxian521.github.io/hyperlink/img/docker-desktop.jpg
 - https://xiaoxian521.github.io/hyperlink/img/echarts-wordcloud.png
 - https://xiaoxian521.github.io/hyperlink/img/pure.png
+- https://xiaoxian521.github.io/hyperlink/img/pureadmin-descriptions.png
+- https://xiaoxian521.github.io/hyperlink/img/pureadmin-table.png
+- https://xiaoxian521.github.io/hyperlink/img/pureadmin-utils.png
 
 ## audio
 
