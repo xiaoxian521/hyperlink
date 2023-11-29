@@ -31,3 +31,4 @@
 ## json
 
 - https://xiaoxian521.github.io/hyperlink/json/echarts.json
+- https://xiaoxian521.github.io/hyperlink/json/province-info.json
