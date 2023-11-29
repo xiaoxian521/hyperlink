@@ -11,6 +11,7 @@
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo3-1.png
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo3-2.png
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo3-3.png
+- https://xiaoxian521.github.io/hyperlink/img/echarts-geo.jpg
 - https://xiaoxian521.github.io/hyperlink/img/echarts-wordcloud.png
 - https://xiaoxian521.github.io/hyperlink/img/esmjs-geo.png
 - https://xiaoxian521.github.io/hyperlink/img/pure.png
