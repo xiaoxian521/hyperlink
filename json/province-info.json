@@ -7,7 +7,7 @@
     "en": "PRC",
     "short": "中国",
     "capital": null,
-    "fileName": "china"
+    "filename": "china"
   },
   {
     "adcode": 110000,
@@ -17,7 +17,7 @@
     "en": "Beijing",
     "short": "京",
     "capital": null,
-    "fileName": "beijing"
+    "filename": "beijing"
   },
   {
     "adcode": 120000,
@@ -27,7 +27,7 @@
     "en": "Tianjin",
     "short": "津",
     "capital": null,
-    "fileName": "tianjin"
+    "filename": "tianjin"
   },
   {
     "adcode": 310000,
@@ -37,7 +37,7 @@
     "en": "Shanghai",
     "short": "沪",
     "capital": null,
-    "fileName": "shanghai"
+    "filename": "shanghai"
   },
   {
     "adcode": 500000,
@@ -47,7 +47,7 @@
     "en": "Chongqing",
     "short": "沪",
     "capital": null,
-    "fileName": "chongqing"
+    "filename": "chongqing"
   },
   {
     "adcode": 130000,
@@ -57,7 +57,7 @@
     "en": "Hebei",
     "short": "冀",
     "capital": "石家庄市",
-    "fileName": "hebei"
+    "filename": "hebei"
   },
   {
     "adcode": 140000,
@@ -67,7 +67,7 @@
     "en": "Shanxi",
     "short": "晋",
     "capital": "太原市",
-    "fileName": "shanxi"
+    "filename": "shanxi"
   },
   {
     "adcode": 210000,
@@ -77,7 +77,7 @@
     "en": "Liaoning",
     "short": "辽",
     "capital": "沈阳市",
-    "fileName": "liaoning"
+    "filename": "liaoning"
   },
   {
     "adcode": 220000,
@@ -87,7 +87,7 @@
     "en": "Jilin",
     "short": "吉",
     "capital": "长春市",
-    "fileName": "jilin"
+    "filename": "jilin"
   },
   {
     "adcode": 230000,
@@ -97,7 +97,7 @@
     "en": "Heilongjiang",
     "short": "黑",
     "capital": "哈尔滨市",
-    "fileName": "heilongjiang"
+    "filename": "heilongjiang"
   },
   {
     "adcode": 320000,
@@ -107,7 +107,7 @@
     "en": "Jiangsu",
     "short": "苏",
     "capital": "南京市",
-    "fileName": "jiangsu"
+    "filename": "jiangsu"
   },
   {
     "adcode": 330000,
@@ -117,7 +117,7 @@
     "en": "Zhejiang",
     "short": "浙",
     "capital": "杭州市",
-    "fileName": "zhejiang"
+    "filename": "zhejiang"
   },
   {
     "adcode": 340000,
@@ -127,7 +127,7 @@
     "en": "Anhui",
     "short": "皖",
     "capital": "合肥市",
-    "fileName": "anhui"
+    "filename": "anhui"
   },
   {
     "adcode": 350000,
@@ -137,7 +137,7 @@
     "en": "Fujian",
     "short": "闽",
     "capital": "福州市",
-    "fileName": "fujian"
+    "filename": "fujian"
   },
   {
     "adcode": 360000,
@@ -147,7 +147,7 @@
     "en": "Jiangxi",
     "short": "赣",
     "capital": "南昌市",
-    "fileName": "jiangxi"
+    "filename": "jiangxi"
   },
   {
     "adcode": 370000,
@@ -157,7 +157,7 @@
     "en": "Shandong",
     "short": "鲁",
     "capital": "济南市",
-    "fileName": "shandong"
+    "filename": "shandong"
   },
   {
     "adcode": 410000,
@@ -167,7 +167,7 @@
     "en": "Henan",
     "short": "豫",
     "capital": "郑州市",
-    "fileName": "henan"
+    "filename": "henan"
   },
   {
     "adcode": 420000,
@@ -177,7 +177,7 @@
     "en": "Hubei",
     "short": "鄂",
     "capital": "武汉市",
-    "fileName": "hubei"
+    "filename": "hubei"
   },
   {
     "adcode": 430000,
@@ -187,7 +187,7 @@
     "en": "Hunan",
     "short": "湘",
     "capital": "长沙市",
-    "fileName": "hunan"
+    "filename": "hunan"
   },
   {
     "adcode": 440000,
@@ -197,7 +197,7 @@
     "en": "Guangdong",
     "short": "粤",
     "capital": "广州市",
-    "fileName": "guangdong"
+    "filename": "guangdong"
   },
   {
     "adcode": 460000,
@@ -207,7 +207,7 @@
     "en": "Hainan",
     "short": "琼",
     "capital": "海口市",
-    "fileName": "hainan"
+    "filename": "hainan"
   },
   {
     "adcode": 510000,
@@ -217,7 +217,7 @@
     "en": "Sichuan",
     "short": "川/蜀",
     "capital": "成都市",
-    "fileName": "sichuan"
+    "filename": "sichuan"
   },
   {
     "adcode": 520000,
@@ -227,7 +227,7 @@
     "en": "Guizhou",
     "short": "黔/贵",
     "capital": "贵阳市",
-    "fileName": "guizhou"
+    "filename": "guizhou"
   },
   {
     "adcode": 530000,
@@ -237,7 +237,7 @@
     "en": "Yunnan",
     "short": "滇/云",
     "capital": "昆明市",
-    "fileName": "yunnan"
+    "filename": "yunnan"
   },
   {
     "adcode": 610000,
@@ -247,7 +247,7 @@
     "en": "Shaanxi",
     "short": "陕/秦",
     "capital": "西安市",
-    "fileName": "shaanxi"
+    "filename": "shaanxi"
   },
   {
     "adcode": 620000,
@@ -257,7 +257,7 @@
     "en": "Gansu",
     "short": "甘/陇",
     "capital": "兰州市",
-    "fileName": "gansu"
+    "filename": "gansu"
   },
   {
     "adcode": 630000,
@@ -267,7 +267,7 @@
     "en": "Qinghai",
     "short": "青",
     "capital": "西宁市",
-    "fileName": "qinghai"
+    "filename": "qinghai"
   },
   {
     "adcode": 710000,
@@ -277,7 +277,7 @@
     "en": "Taiwan",
     "short": "台",
     "capital": "西宁市",
-    "fileName": "taiwan"
+    "filename": "taiwan"
   },
   {
     "adcode": 150000,
@@ -287,7 +287,7 @@
     "en": "Inner Mongolia Autonomous Region",
     "short": "蒙",
     "capital": "呼和浩特市",
-    "fileName": "neimenggu"
+    "filename": "neimenggu"
   },
   {
     "adcode": 450000,
@@ -297,7 +297,7 @@
     "en": "Guangxi Zhuang Autonomous Region",
     "short": "桂",
     "capital": "南宁市",
-    "fileName": "guangxi"
+    "filename": "guangxi"
   },
   {
     "adcode": 540000,
@@ -307,7 +307,7 @@
     "en": "Tibet Autonomous Region",
     "short": "藏",
     "capital": "拉萨",
-    "fileName": "xizang"
+    "filename": "xizang"
   },
   {
     "adcode": 640000,
@@ -317,7 +317,7 @@
     "en": "Ningxia Hui Autonomous Region",
     "short": "宁",
     "capital": "银川市",
-    "fileName": "ningxia"
+    "filename": "ningxia"
   },
   {
     "adcode": 650000,
@@ -327,7 +327,7 @@
     "en": "Xinjiang Uyghur Autonomous Region",
     "short": "新",
     "capital": "乌鲁木齐",
-    "fileName": "xinjiang"
+    "filename": "xinjiang"
   },
   {
     "adcode": 810000,
@@ -337,7 +337,7 @@
     "en": "Hong Kong Special Administrative Region",
     "short": "港",
     "capital": null,
-    "fileName": "hongkong"
+    "filename": "hongkong"
   },
   {
     "adcode": 820000,
@@ -347,6 +347,6 @@
     "en": "Macau Special Administrative Region",
     "short": "澳",
     "capital": null,
-    "fileName": "aomen"
+    "filename": "aomen"
   }
 ]
