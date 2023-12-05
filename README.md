@@ -18,6 +18,7 @@
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-descriptions.png
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-table.png
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-utils.png
+- https://xiaoxian521.github.io/hyperlink/img/vuerouter.jpg
 
 ## audio
 
