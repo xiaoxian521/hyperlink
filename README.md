@@ -24,6 +24,7 @@
 
 ## svg
 
+- https://xiaoxian521.github.io/hyperlink/svg/pure.svg
 - https://xiaoxian521.github.io/hyperlink/svg/react.svg
 - https://xiaoxian521.github.io/hyperlink/svg/vue.svg
 
