@@ -23,6 +23,10 @@
 - https://xiaoxian521.github.io/hyperlink/img/vue.png
 - https://xiaoxian521.github.io/hyperlink/img/vuerouter.jpg
 
+## gif
+
+- https://xiaoxian521.github.io/hyperlink/gif/pure-admin-cli.gif
+
 ## svg
 
 - https://xiaoxian521.github.io/hyperlink/svg/pure.svg
