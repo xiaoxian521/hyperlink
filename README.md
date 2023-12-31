@@ -19,6 +19,8 @@
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-descriptions.png
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-table.png
 - https://xiaoxian521.github.io/hyperlink/img/pureadmin-utils.png
+- https://xiaoxian521.github.io/hyperlink/img/pureClih.jpg
+- https://xiaoxian521.github.io/hyperlink/img/pureCliv.jpg
 - https://xiaoxian521.github.io/hyperlink/img/react.png
 - https://xiaoxian521.github.io/hyperlink/img/vue.png
 - https://xiaoxian521.github.io/hyperlink/img/vuerouter.jpg
