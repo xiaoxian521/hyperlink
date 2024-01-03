@@ -4,6 +4,10 @@
 
 ## img
 
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/1.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/2.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/3.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/4.jpg
 - https://xiaoxian521.github.io/hyperlink/img/docker-desktop.jpg
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo1-1.png
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo1-2.png
@@ -31,6 +35,8 @@
 
 ## svg
 
+- https://xiaoxian521.github.io/hyperlink/svg/dark.svg
+- https://xiaoxian521.github.io/hyperlink/svg/day.svg
 - https://xiaoxian521.github.io/hyperlink/svg/pure.svg
 - https://xiaoxian521.github.io/hyperlink/svg/react.svg
 - https://xiaoxian521.github.io/hyperlink/svg/vue.svg
