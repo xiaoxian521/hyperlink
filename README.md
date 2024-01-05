@@ -44,6 +44,7 @@
 - https://xiaoxian521.github.io/hyperlink/svg/smile2.svg
 - https://xiaoxian521.github.io/hyperlink/svg/smile3.svg
 - https://xiaoxian521.github.io/hyperlink/svg/smile4.svg
+- https://xiaoxian521.github.io/hyperlink/svg/smile5.svg
 
 ## audio
 
