@@ -40,6 +40,10 @@
 - https://xiaoxian521.github.io/hyperlink/svg/pure.svg
 - https://xiaoxian521.github.io/hyperlink/svg/react.svg
 - https://xiaoxian521.github.io/hyperlink/svg/vue.svg
+- https://xiaoxian521.github.io/hyperlink/svg/smile1.svg
+- https://xiaoxian521.github.io/hyperlink/svg/smile2.svg
+- https://xiaoxian521.github.io/hyperlink/svg/smile3.svg
+- https://xiaoxian521.github.io/hyperlink/svg/smile4.svg
 
 ## audio
 

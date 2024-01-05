@@ -1,0 +1,10 @@
+{
+  "name": "hyperlink",
+  "scripts": {
+    "svgo": "svgo -f svg"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "svgo": "^3.2.0"
+  }
+}
