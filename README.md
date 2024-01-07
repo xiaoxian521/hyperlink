@@ -8,6 +8,7 @@
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/3.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/4.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/5.jpg
 - https://xiaoxian521.github.io/hyperlink/img/docker-desktop.jpg
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo1-1.png
 - https://xiaoxian521.github.io/hyperlink/img/echarts-advanceddemo1-2.png
