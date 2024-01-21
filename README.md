@@ -60,3 +60,8 @@
 
 - https://xiaoxian521.github.io/hyperlink/json/echarts.json
 - https://xiaoxian521.github.io/hyperlink/json/province-info.json
+
+## other
+
+- https://xiaoxian521.github.io/hyperlink/other/pure-upload.xlsx
+- https://xiaoxian521.github.io/hyperlink/other/pure-upload.csv
