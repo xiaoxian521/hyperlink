@@ -33,6 +33,8 @@
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/3.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/4.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/1.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/%E5%B7%B4%E6%97%A6%E6%9C%A8.jpeg
 - https://xiaoxian521.github.io/hyperlink/img/%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2.png
 - https://xiaoxian521.github.io/hyperlink/img/docker-desktop.jpg
