@@ -8,6 +8,7 @@
 - https://xiaoxian521.github.io/hyperlink/img/electron-pure-admin/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/electron-pure-admin/3.jpg
 - https://xiaoxian521.github.io/hyperlink/img/tauri-pure-admin/1.jpg
+- https://xiaoxian521.github.io/hyperlink/img/tauri-pure-admin/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/1.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/3.jpg
