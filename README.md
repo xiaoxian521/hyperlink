@@ -18,6 +18,10 @@
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/notice/2.png
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/notice/3.png
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/notice/4.png
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/chatai/blue.jpg
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/chatai/gemini.png
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/chatai/lofi.png
+- https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin/chatai/robot.png
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/1.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/2.jpg
 - https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/3.jpg
@@ -68,6 +72,7 @@
 
 - https://xiaoxian521.github.io/hyperlink/svg/dark.svg
 - https://xiaoxian521.github.io/hyperlink/svg/day.svg
+- https://xiaoxian521.github.io/hyperlink/svg/openai.svg
 - https://xiaoxian521.github.io/hyperlink/svg/pure.svg
 - https://xiaoxian521.github.io/hyperlink/svg/react.svg
 - https://xiaoxian521.github.io/hyperlink/svg/vue.svg
